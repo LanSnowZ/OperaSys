@@ -1,0 +1,6 @@
+# ninja log v5
+1	461	6990172981529460	CMakeFiles/lab2.dir/lab2/lab2.cpp.obj	9029f5a8ee66b9ba
+462	539	6990172982287431	lab2.exe	7db2a499b38881d7
+0	317	6990174652656051	build.ninja	2746be57a0dfc942
+0	436	6990174657720280	CMakeFiles/lab2.dir/lab2/lab2_producer_consumer_problem.cpp.obj	a437d58c59f4177
+436	514	6990174658498399	lab2.exe	8aaad42e5e697a5f
