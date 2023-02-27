@@ -22,7 +22,8 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8
 					]
 				}
 			],
@@ -44,7 +45,8 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8
 					]
 				}
 			],
@@ -67,42 +69,49 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "lab2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lab2-Debug-f49119c18d788d4758a9.json",
+					"jsonFile" : "target-lab2-Debug-97e3d3b625623509a69a.json",
 					"name" : "lab2",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "lab2_cp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab2_cp-Debug-3deb7da6bdc58d1ab310.json",
+					"name" : "lab2_cp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "lab3::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lab3-Debug-1c79599e33a1bf9ca265.json",
+					"jsonFile" : "target-lab3-Debug-84de3a77b0f830e0d063.json",
 					"name" : "lab3",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "lab4::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lab4-Debug-20814b440346a208d969.json",
+					"jsonFile" : "target-lab4-Debug-ce84fe930203b3207777.json",
 					"name" : "lab4",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "lab5::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lab5-Debug-b46983756521426359ed.json",
+					"jsonFile" : "target-lab5-Debug-96fac3de4e74248090ba.json",
 					"name" : "lab5",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "lab6::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lab6-Debug-95e9e33410ecbf477bd9.json",
+					"jsonFile" : "target-lab6-Debug-6621aca9203e6cd795e0.json",
 					"name" : "lab6",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "lab7::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lab7-Debug-8f483bad5f0ae0bfc82d.json",
+					"jsonFile" : "target-lab7-Debug-b396b1ce6fd62adb5741.json",
 					"name" : "lab7",
 					"projectIndex" : 0
 				}

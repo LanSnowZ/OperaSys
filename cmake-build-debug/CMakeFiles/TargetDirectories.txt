@@ -1,5 +1,6 @@
 D:/WorkSpace/Code/C/OperaSys/cmake-build-debug/CMakeFiles/OperaSys.dir
 D:/WorkSpace/Code/C/OperaSys/cmake-build-debug/CMakeFiles/lab1.dir
+D:/WorkSpace/Code/C/OperaSys/cmake-build-debug/CMakeFiles/lab2_cp.dir
 D:/WorkSpace/Code/C/OperaSys/cmake-build-debug/CMakeFiles/lab2.dir
 D:/WorkSpace/Code/C/OperaSys/cmake-build-debug/CMakeFiles/lab3.dir
 D:/WorkSpace/Code/C/OperaSys/cmake-build-debug/CMakeFiles/lab4.dir
